@@ -35,8 +35,10 @@ This project uses AnyLogic to simulate warehouse outbound operations, identify b
 ### Simulation Model
 ![Simulation Model](images/simulation_model.png)
 
-### Simulation Running
+### Simulation Running(1)
 ![Simulation Running](images/simulation_running(1).png)
+
+### Simulation Running(2)
 ![Simulation Running](images/simulation_running(2).png)
 
 ## 6. Project Files
