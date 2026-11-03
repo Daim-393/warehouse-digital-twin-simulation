@@ -30,6 +30,15 @@ This project uses AnyLogic to simulate warehouse outbound operations, identify b
 - Bottleneck Analysis
 - Sensitivity Analysis
 
+## Simulation Screenshots
+
+### Simulation Model
+![Simulation Model](images/simulation_model.png)
+
+### Simulation Running
+![Simulation Running](images/simulation_running(1).png)
+![Simulation Running](images/simulation_running(2).png)
+
 ## 6. Project Files
 
 - `WarehouseSimulation.alp`: AnyLogic simulation model.
